@@ -1,12 +1,12 @@
 All API Link:
 
-register user: http://127.0.0.1:8000/api/users/register/
-login user: http://127.0.0.1:8000/api/users/login/
-updateProfile:http://127.0.0.1:8000/api/users/profile/update/
-updateuser:http://127.0.0.1:8000/api/users/update/<str:pk>/
-deleteUser: http://127.0.0.1:8000/api/users/delete/<str:pk>/
-get users profile: http://127.0.0.1:8000/api/users/profile
-get all users by admin: http://127.0.0.1:8000/api/users
+register user: http://127.0.0.1:8000/api/users/register/ <br />
+login user: http://127.0.0.1:8000/api/users/login/ <br />
+updateProfile:http://127.0.0.1:8000/api/users/profile/update/ <br />
+updateuser:http://127.0.0.1:8000/api/users/update/<str:pk>/ <br />
+deleteUser: http://127.0.0.1:8000/api/users/delete/<str:pk>/ <br />
+get users profile: http://127.0.0.1:8000/api/users/profile/ <br />
+get all users by admin: http://127.0.0.1:8000/api/users/ <br />
 
 
 get single product: http://127.0.0.1:8000/api/products/<str:pk>/
